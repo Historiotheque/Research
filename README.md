@@ -1,4 +1,4 @@
-# Research — Historiotheque
+# Research — Historiotheque [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22983237.svg)](https://doi.org/10.5281/zenodo.22983237)
 
 The scholarly apparatus of the art-research practice: research questions, literature
 reviews, bibliographies, and research methods. Counterpart to the main Historiotheque
