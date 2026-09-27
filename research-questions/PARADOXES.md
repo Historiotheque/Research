@@ -23,3 +23,18 @@ a question) — retired IDs are never reused.
 **Ruling:** Rule A is overruled for this case. RQ-2026-023 → RQ-2026-018, before
 anything was uploaded, so the rename is clean. 022 stays retired. Numbering
 continues sequentially from the highest issued ID.
+
+## Paradox #2 — Lifespace ethics material in public files (2026-09-24)
+
+**The conflict:** The STRICT rule — Lifespace content (personal, mystical,
+private) never enters GitHub-bound files — vs. the Chief Art Operator's
+decision that the *ethics and governance* content discussed in the Lifespace
+side chat (ethics implications of the work, the discretion of the witness,
+stakeholder warnings) belongs in the public record, in a governance folder in
+the Historiotheque repo.
+
+**Ruling:** The crossing is authorized, by his explicit direction, for
+governance-relevant ethics content only. The boundary holds for everything
+else: personal material, mystical/religious experience, and anything covered
+by the STRICT rule stays in Lifespace. Nothing crosses silently — each item
+crosses because he said so, and the fact of the crossing is recorded here.
